@@ -11,7 +11,7 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/massayoshi-bando" target="_blank">
+  <a href="https://www.linkedin.com/in/massayoshi-bando" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/massayoshii/" target="_blank">
@@ -50,9 +50,10 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Massayoshii/Massayoshii/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Massayoshii/Massayoshii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Massayoshii/Massayoshii/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Massayoshii&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massayoshii&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Most used languages" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Massayoshii&radius=16&theme=redical&area=true" height="300" alt="activity graph" />
 </div>
 
 ###
